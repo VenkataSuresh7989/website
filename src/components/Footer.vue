@@ -117,7 +117,7 @@ export default {
                     Password: "E10542A497C7B9339B24AE38A3D0896255F2",
                     // SecureToken:"84E67612B44156E29B5272C6E5B125C3C0F6818E598D811180A9092607CC3448320D089F86A01BE4DCBE6737773B5F4B",
                     To: 'mendavenkatasuresh@gmail.com',
-                    From: this.txtEmail.toString(),//"noworknofood7989@gmail.com",
+                    From: "noworknofood7989@gmail.com",
                     Subject: "Feed back from Personal Website.",
                     Body: "Name : <strong>" + this.txtName + "</strong><br>Email : <strong>" + this.txtEmail + "</strong><br>Phone Number : <strong>" + this.txtNumber + "</strong><br>Comments : <strong>" + this.txtComments + "</strong>"
                 });
